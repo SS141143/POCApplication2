@@ -70,3 +70,4 @@ C:\Pandian\POCApp2\POCApp2\bin\Microsoft.AI.WindowsServer.xml
 C:\Pandian\POCApp2\POCApp2\bin\Microsoft.AI.Web.xml
 C:\Pandian\POCApp2\POCApp2\obj\Debug\POCApp2.dll
 C:\Pandian\POCApp2\POCApp2\obj\Debug\POCApp2.pdb
+C:\Pandian\POCApp2\POCApp2\obj\Debug\POCApp2.csprojResolveAssemblyReference.cache
